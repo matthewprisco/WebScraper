@@ -1,0 +1,330 @@
+[
+  {
+    "domain": "www.glassdoor.com",
+    "expiry": 1782251615,
+    "httpOnly": false,
+    "name": "muxData",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "=undefined&mux_viewer_id=6737fc80-71d8-417b-b795-8cd29ec815c8&msn=0.059577408721230185&sid=c1f04278-d699-4bf6-a5e8-de679ec815df&sst=1750715602399&sex=1750717115738"
+  },
+  {
+    "domain": "www.glassdoor.com",
+    "expiry": 1785275611,
+    "httpOnly": false,
+    "name": "ki_t",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "1750715520502%3B1750715520502%3B1750715611426%3B1%3B3"
+  },
+  {
+    "domain": ".glassdoor.com",
+    "expiry": 1782251610,
+    "httpOnly": false,
+    "name": "OptanonConsent",
+    "path": "/",
+    "sameSite": "None",
+    "secure": true,
+    "value": "isGpcEnabled=0&datestamp=Tue+Jun+24+2025+02%3A53%3A30+GMT%2B0500+(Pakistan+Standard+Time)&version=202407.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=c620ca14-8d5f-4d2b-b79f-05bc938cb38d&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0003%3A1%2CC0002%3A1%2CC0004%3A1%2CC0017%3A1&AwaitingReconsent=false"
+  },
+  {
+    "domain": ".glassdoor.com",
+    "expiry": 1750717402,
+    "httpOnly": false,
+    "name": "cdArr",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": ""
+  },
+  {
+    "domain": ".glassdoor.com",
+    "expiry": 1750717402,
+    "httpOnly": false,
+    "name": "rsReferrerData",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "%7B%22currentPageRollup%22%3A%22%2Fcommunity%2Findex%22%2C%22previousPageRollup%22%3A%22%2Findex%22%2C%22currentPageAbstract%22%3A%22%2FCommunity%2Findex.htm%22%2C%22previousPageAbstract%22%3A%22%2Findex.htm%22%2C%22currentPageFull%22%3A%22https%3A%2F%2Fwww.glassdoor.com%2FCommunity%2Findex.htm%22%2C%22previousPageFull%22%3A%22https%3A%2F%2Fwww.glassdoor.com%2Findex.htm%22%7D"
+  },
+  {
+    "domain": "www.glassdoor.com",
+    "expiry": 1785275601,
+    "httpOnly": false,
+    "name": "indeedCtk",
+    "path": "/",
+    "sameSite": "None",
+    "secure": true,
+    "value": "1iufcg00lk8h2801"
+  },
+  {
+    "domain": ".glassdoor.com",
+    "expiry": 1782251601,
+    "httpOnly": false,
+    "name": "rl_trait",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "RudderEncrypt%3AU2FsdGVkX1%2FBpnP7ciJdl1XyLzd1AuPiBl4DPBf045h2Vt91mT7C7LGn3nF7x43HI4A%2FP5sRHspo67eMGY0nYcppPZHX6bMgYZzvmBtqISCDmGes%2Fm3wpGEKazr2gZcQ87VD7fCxCuYgfZjwjistW7foSp8h7WxX7MlzEzsGm6JyApFEVG7c9ae%2BLn0CsAyxAZeBIDgVeHNbuwsSJCKnM0nkC3RVBqfInd9cuDaUUKSPitrg%2B48LhWfmgjSt4H0DRclmIv2c3wQnliQcjMABUZwNyyBoMsOO4qmoRpx%2Fai%2FDdPL6zWy97T%2BSC4fYnjISZVsiDNyjebHioM3B7pW1HDBdCFO0dMEFZw205cw4LoQ%3D"
+  },
+  {
+    "domain": "www.glassdoor.com",
+    "expiry": 1782273189,
+    "httpOnly": true,
+    "name": "at",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJqdGkiOiJmNGZkNDhlNS1iMTJkLTRhMTItOGEyNC1kNDUwNTFmMTliMTIiLCJ1IjoiY3pnb2p1ZXljeHFkam52empyQHRtbWJ0Lm5ldCIsInVpZCI6MjQ0MjE3ODU4LCJyZnNoIjoxNzUwNzE2MTg5MjY3LCJybWJfaWF0IjoxNzUwNzE1NTg5MjY0LCJybWJfZXhwIjoxNzgyMjUxNTg5MjY0LCJhdHQiOiJ1cHdkIiwiYXV0aG9yaXRpZXMiOls0NSw0NywyOF0sImN1aWQiOiI2NjJjOWFlMWZkODM5MWY3MDVhZmRhMzcifQ.H1Bb8otAUZeuxiF677_TfuudpmWPKTOkVec2pQPdxRQbpwMocAgWoQ_kAUuwUTDMcVEVhj1ZDypra8UYzOwC0fg_TdzhZJ-r-mQf-17YHa4MpmabLWJZ7l4bSIW-CYm4Rrf3yjolqR-NLVFoHvz06oClHMZ-bpUGf6GpymAJqunSPETLnUL6hMTThZemWOhIV75Ed2dbw0wrCL0gpOg2qvNHjtOo9o_qh-F2rlBvkdvg5EgdEcQul3D0pTfzwt6iibzra4lLGa8Xae5X98BX6fhmoUXavY_6rn7xYZ1cqNbE5DjJqh938xlOOy4vcjIX3g4SQMLUTIrJaLaTCvfkjg"
+  },
+  {
+    "domain": "www.glassdoor.com",
+    "expiry": 1750716617,
+    "httpOnly": false,
+    "name": "_dd_s",
+    "path": "/",
+    "sameSite": "Strict",
+    "secure": false,
+    "value": "rum=0&expire=1750716612478"
+  },
+  {
+    "domain": ".glassdoor.com",
+    "expiry": 1782251593,
+    "httpOnly": false,
+    "name": "rl_group_id",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "RudderEncrypt%3AU2FsdGVkX1%2BpS%2FNGkFK8nSy0gugj6KwLZAnElH24hmQ%3D"
+  },
+  {
+    "domain": "www.glassdoor.com",
+    "expiry": 1751320317,
+    "httpOnly": false,
+    "name": "AWSALBCORS",
+    "path": "/",
+    "sameSite": "None",
+    "secure": true,
+    "value": "rgTH71RBaBpjj3ggOHLn8yawewh77bH/wQAGnJ7+RCutRgvNCRbNyDlexru/OncQ4NtNIVk0ATapZdSRzrfWSIHnOTCAWVAJie5MiFEkzXfVgXATZbQ/NigxD0+Y"
+  },
+  {
+    "domain": ".glassdoor.com",
+    "expiry": 1782251593,
+    "httpOnly": false,
+    "name": "rl_group_trait",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "RudderEncrypt%3AU2FsdGVkX1%2BafwHGDWt4pnJyyLZxtVJBmigyojNMVhA%3D"
+  },
+  {
+    "domain": ".glassdoor.com",
+    "expiry": 1750801961,
+    "httpOnly": false,
+    "name": "_gid",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "GA1.2.1455918099.1750715561"
+  },
+  {
+    "domain": ".glassdoor.com",
+    "expiry": 1782251601,
+    "httpOnly": false,
+    "name": "rl_anonymous_id",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "RudderEncrypt%3AU2FsdGVkX1%2B%2FKquwwtmPllTNdjEk%2FbIsmDZtujajj2F4KJAG549ffoZlkskbXkEqpY1PUysUcz%2B%2Fvcuf6SSUOQ%3D%3D"
+  },
+  {
+    "domain": "www.glassdoor.com",
+    "expiry": 1785275610,
+    "httpOnly": false,
+    "name": "_optionalConsent",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "true"
+  },
+  {
+    "domain": ".glassdoor.com",
+    "expiry": 1782251511,
+    "httpOnly": false,
+    "name": "rl_page_init_referring_domain",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "RudderEncrypt%3AU2FsdGVkX19QPF4IpM1eWHu49r7B74Uwxids5wD6F6k%3D"
+  },
+  {
+    "domain": "www.glassdoor.com",
+    "expiry": 1750737117,
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "None",
+    "secure": true,
+    "value": "EE677AEB40BCF19EE6ABD015A877EF84"
+  },
+  {
+    "domain": ".glassdoor.com",
+    "expiry": 1750717402,
+    "httpOnly": false,
+    "name": "rsSessionId",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "1750715511205"
+  },
+  {
+    "domain": ".glassdoor.com",
+    "expiry": 1782251613,
+    "httpOnly": false,
+    "name": "rl_session",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "RudderEncrypt%3AU2FsdGVkX1%2B59%2BFyic%2FKuMdqXtNdQflpq4%2F8U3LU%2FyjLSBRxHkRJCfavPsx49Ry%2BeGfzI3wz7UPYiYwfz5W4DTO6WlpyKrOzUQOEF5Pqi10kmIqzh%2Be4CIObIZo0JdRBtTzYnk3Zf1VFC0r2QL7bjQ%3D%3D"
+  },
+  {
+    "domain": ".glassdoor.com",
+    "expiry": 1782251511,
+    "httpOnly": false,
+    "name": "rl_page_init_referrer",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "RudderEncrypt%3AU2FsdGVkX1%2FQjcTg8PD6Yo7sJ0VClKh%2F7jk9T7LYQJ0%3D"
+  },
+  {
+    "domain": "www.glassdoor.com",
+    "expiry": 1785275611,
+    "httpOnly": false,
+    "name": "ki_r",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": ""
+  },
+  {
+    "domain": "www.glassdoor.com",
+    "expiry": 1751320317,
+    "httpOnly": false,
+    "name": "AWSALB",
+    "path": "/",
+    "sameSite": "None",
+    "secure": true,
+    "value": "rgTH71RBaBpjj3ggOHLn8yawewh77bH/wQAGnJ7+RCutRgvNCRbNyDlexru/OncQ4NtNIVk0ATapZdSRzrfWSIHnOTCAWVAJie5MiFEkzXfVgXATZbQ/NigxD0+Y"
+  },
+  {
+    "domain": "www.glassdoor.com",
+    "httpOnly": false,
+    "name": "GSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "undefined"
+  },
+  {
+    "domain": ".glassdoor.com",
+    "expiry": 1782251601,
+    "httpOnly": false,
+    "name": "rl_user_id",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "RudderEncrypt%3AU2FsdGVkX190Emnsh4tdx9AXBA615CYNgdRkQ55Mi74%3D"
+  },
+  {
+    "domain": ".glassdoor.com",
+    "expiry": 1782251573,
+    "httpOnly": true,
+    "name": "cf_clearance",
+    "path": "/",
+    "sameSite": "None",
+    "secure": true,
+    "value": "fyVs_MeNzGZ06PsWlPeBSpZYxFiFRtTuYofNlx82ehA-1750715573-1.2.1.1-7UyoDUgjvVVFqmarONroJ0l8_FFt.jMe5I1UuF7dOjKkJGGbH6P3YNiwSpDoUW_39gyvHwHkpP8Nkb88jReZgyhM_7vR7Ptqp_fwAOr67st9kNAIU_FFHc9o3HX4mjdFhykRMT3Lan0rEV.hOg51Owvd34ymcV9Q2KjEYAwfFYuWNfDg8utDQyHbMM._jKO1fhPyEtNO1Dh8rbfXfRPy41oPbyo1eucFx4yHds7Rr7Mkufl4wVk7d2uUh5dsuOgXNKnQeKSpVg0JDD2bC13.zDpEEwMbm0B9PUKybd2SOX35F0JxCEDvDEIpGOofcb9Gg1uD_e2UgzfXduhvKHDg4mQbTpcbKQfQhECMWGMXrqH2mCjDKzGhA8qfvNyiA8YE"
+  },
+  {
+    "domain": "www.glassdoor.com",
+    "expiry": 1750722717,
+    "httpOnly": false,
+    "name": "cass",
+    "path": "/",
+    "sameSite": "None",
+    "secure": true,
+    "value": "0"
+  },
+  {
+    "domain": ".glassdoor.com",
+    "expiry": 1750717307,
+    "httpOnly": true,
+    "name": "__cf_bm",
+    "path": "/",
+    "sameSite": "None",
+    "secure": true,
+    "value": "1gLYmHGswpGhesyIUilzOpDUCotlVoEWirPXJCVEtW4-1750715507-1.0.1.1-3hRCtJ8VdbuWGRPnEttAnTqmkTTWY1e834mIi.JDfYAUQX8sjuklO_pFW1dZiVKE0e34hw41j.IUVR_iDLSIOe8I69DmWR0IZU3iaaA_V1Vmx4u0cvk7Jyiovc9dfk94"
+  },
+  {
+    "domain": "www.glassdoor.com",
+    "expiry": 1785275517,
+    "httpOnly": false,
+    "name": "gdId",
+    "path": "/",
+    "sameSite": "None",
+    "secure": true,
+    "value": "f86153fa-3844-410d-b7c5-c824af630fe5"
+  },
+  {
+    "domain": ".glassdoor.com",
+    "httpOnly": true,
+    "name": "_cfuvid",
+    "path": "/",
+    "sameSite": "None",
+    "secure": true,
+    "value": "5r8faiF0hJcL8RhcDYhK3vUIlau1EJbjSVu9CpszVUc-1750715507797-0.0.1.1-604800000"
+  },
+  {
+    "domain": "www.glassdoor.com",
+    "expiry": 1750737107,
+    "httpOnly": true,
+    "name": "gdsid",
+    "path": "/",
+    "sameSite": "None",
+    "secure": true,
+    "value": "1750715507301:1750715507301:63C792971CD6BEB9EB8D9FC8453D55DB"
+  },
+  {
+    "domain": "www.glassdoor.com",
+    "expiry": 1785275520,
+    "httpOnly": false,
+    "name": "ki_s",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "213982%3A0.0.0.0.0"
+  },
+  {
+    "domain": "www.glassdoor.com",
+    "expiry": 1750717414,
+    "httpOnly": false,
+    "name": "asst",
+    "path": "/",
+    "sameSite": "None",
+    "secure": true,
+    "value": "1750715507.0"
+  },
+  {
+    "domain": ".glassdoor.com",
+    "expiry": 1785275561,
+    "httpOnly": false,
+    "name": "_ga",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "GA1.2.990318608.1750715561"
+  }
+]
